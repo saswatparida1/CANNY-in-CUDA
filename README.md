@@ -9,7 +9,7 @@ The edge point detected from the operator should accurately localize on the cent
 A given edge in the image should only be marked once, and where possible, image noise should not create false edges.
 
 
-The Process of Canny edge detection algorithm can be broken down to 5 different steps:
+The Process of Canny edge detection algorithm can be broken down to  different steps:
 
 Apply Gaussian filter to smooth the image in order to remove the noise
 Find the intensity gradients of the image
