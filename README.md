@@ -1,8 +1,7 @@
 # PROJECT
-Uploading some of  my best project
 
 
-Canny edge detection is a technique to extract useful structural information from different vision objects and dramatically reduce the amount of data to be processed.
+#Canny edge detection is a technique to extract useful structural information from different vision objects and dramatically reduce the amount of data to be processed.
 The general criteria for edge detection include:
 
 Detection of edge with low error rate, which means that the detection should accurately catch as many edges shown in the image as possible
